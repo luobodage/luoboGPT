@@ -1,0 +1,31 @@
+{
+  "\u6d4b\u8bd5": [
+    {
+      "role": "user",
+      "content": "\u4f60\u597d\u5440"
+    },
+    {
+      "role": "assistant",
+      "content": "\u4f60\u597d\uff01\u6709\u4ec0\u4e48\u53ef\u4ee5\u5e2e\u5230\u4f60\u7684\u5417\uff1f"
+    },
+    {
+      "role": "user",
+      "content": "\u6ca1\u6709\u5440"
+    },
+    {
+      "role": "assistant",
+      "content": "\u597d\u7684\uff0c\u5982\u679c\u4f60\u6709\u4efb\u4f55\u9700\u8981\u6211\u5e2e\u5fd9\u7684\u95ee\u9898\u6216\u8005\u56f0\u96be\uff0c\u968f\u65f6\u53ef\u4ee5\u544a\u8bc9\u6211\u3002"
+    }
+  ],
+  "luobo": [
+    {
+      "role": "user",
+      "content": "hello"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! How may I assist you today?"
+    }
+  ],
+  "11111": []
+}
